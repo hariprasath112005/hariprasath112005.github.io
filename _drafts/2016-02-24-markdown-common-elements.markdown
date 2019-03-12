@@ -17,22 +17,6 @@ hidden: true
 externalLink: false
 ---
 
-## Summary:
-
-You can pick as item to see how to apply in markdown.
-
-### Comum Elements
-- [Basic formatting](#basic-formatting)
-- [Headings](#headings)
-- [Lists](#lists)
-- [Paragraph Modifiers](#paragraph-modifiers)
-- [Urls](#urls)
-- [Horizontal Rule](#horizontal-rule)
-- [Images](#images)
-- [Code](#code)
-
----
-
 ## Basic formatting
 
 This note **demonstrates** some of what [Markdown][1] is *capable of doing*.

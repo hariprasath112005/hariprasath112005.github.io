@@ -46,6 +46,7 @@ linkedin: ravpacheco
 youtube: ravpacheco
 spotify: ravpacheco
 github: ravpacheco
+# gitlab: mygitlab
 # lastfm: mylastfm
 stackoverflow: 3613766/rafael-pacheco
 # quora: userquora
@@ -53,6 +54,8 @@ stackoverflow: 3613766/rafael-pacheco
 medium: ravpacheco
 #vimeo: myvimeo
 email: ravpacheco@gmail.com
+=======
+# lanyrd: mylanyrd
 
 authors:
     ravpacheco:
@@ -96,11 +99,20 @@ show-author: true
 # do you want some animations?
 animation: true
 
-gems:
+plugins:
   - jekyll-seo-tag
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-admin
 
 jekyll-mentions:
     base_url: https://github.com
+
+compress_html:
+    ignore:
+        envs:
+        - development
+        - stage
+
+exclude: ["travis.sh", "Rakefile", "README.md", "Gemfile", "Gemfile.lock", "FAQ.md"]
