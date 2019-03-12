@@ -7,9 +7,9 @@ ref: about
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
 Rafael Pacheco is Master of Mathematical and Computational Modelling and Bachelor of Computer Engineering at CEFET-MG.
-Works as _developer advocate_ at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbot platform.
-Loves technology and soccer. Likes teach, discuss and talk about things that belive.
-In the last years, has made efforts to teach for everyone everything that knows about bots and BLiP platform.
+Works as a _developer advocate_ at [BLiP](http://blip.ai/), [Take's](https://take.net) chatbot platform.
+Loves technology and soccer. Likes teach, discuss and talk about things that believe.
+In the last years, has made efforts to teach everyone everything that knows about bots and BLiP platform.
 
 <h2><b>Images</b> to events materials</h2>
 
