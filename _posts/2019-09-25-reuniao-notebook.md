@@ -5,6 +5,7 @@ date:   2019-09-25 14:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: reuniao-notebook
+image: /assets/images/2019-09-25-reuniao-notebook/meetings.jpg
 tag: 
 - reuniao
 - foco
