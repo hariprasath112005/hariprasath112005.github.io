@@ -62,12 +62,12 @@ Quando ouvimos ou vemos algo, automaticamente, processamos o conteúdo de acordo
 
 Dessa forma, ao acompanhar o seu notebook durante uma reunião, mudanças corporais podem ocorrer e junto delas surge uma grande dúvida sobre o real motivo delas terem acontecido.
 
-As reações podem ser resultado do que você está lendo ou do que você está ouvindo na reunião. Independente de qual seja a fonte temos aqui 2 problemas.
+As reações podem ser resultado do que você está lendo ou do que você está ouvindo na reunião. Independente de qual seja a fonte, temos aqui 2 problemas.
 
-1. Se vc está focado e reagindo ao que está lendo no notebook, então provavelmente você não deveria estar na reunião.
-2. Se vc está reagindo ao que está sendo dito na reunião mas, ao invés de discutir sua discordância, prefere olhar para o notebook então vc está falhando em fazer um contraponto. Ou pior, você está falhando de continuar em uma reunião em que você não acrescentará nada.
+1. Se você está focado e reagindo ao que está lendo no notebook, então provavelmente você não deveria estar na reunião.
+2. Se você está reagindo ao que está sendo dito na reunião mas, ao invés de discutir sua discordância, prefere olhar para o notebook então você está falhando em fazer um contraponto. Ou pior, você está falhando de continuar em uma reunião em que você não acrescenta nada.
 
-Dê feedbacks durante a reunião caso acredite no conteúdo delas. Caso contrário não vá a mesma.
+Dê feedbacks durante a reunião caso acredite no conteúdo delas, caso contrário não vá a mesma.
 
 ## Não, você não é multitask;
 
@@ -75,15 +75,15 @@ Achar que pode trabalhar no notebook e participar da reunião de forma integral 
 
 Repare que, em geral, é preciso retomar alguns pontos já discutidos durante a reunião para as pessoas que acompanham o notebook.
 
-Fazer uma coisa bem feita de cada vez é muito difícil. Tentar fazer várias ao mesmo tempo é garantia de um resultado incompleto para todas elas.
+**Fazer uma coisa bem feita de cada vez é muito difícil. Tentar fazer várias ao mesmo tempo é garantia de um resultado incompleto para todas elas.**
 
 ## Fique apenas o tempo necessário;
 
-Sabe aquela velha máxima de que sair no meio da aula é falta de educação?  Pois é, a boa notícia é que reunião não é aula e caso sua presença não seja indispensável, você está liberado a sair a qualquer momento.
+Sabe aquela velha máxima de que sair no meio da aula é falta de educação? Pois é, a boa notícia é que reunião não é aula e caso sua presença não seja indispensável, você está liberado para sair a qualquer momento.
 
 Participar de apenas alguns tópicos da pauta de uma reunião não é falta de educação. Na minha opinião, é sinal de auto conhecimento e gestão efetiva de tempo.
 
-Preciso participar apenas de um tópico específico no final da reunião, o que fazer? Peça alguém para te chamar quando sua participação for importante!
+Preciso participar apenas de um tópico específico no final da reunião, o que fazer? Peça para alguém te chamar quando sua participação for importante!
 
 ...
 
@@ -95,6 +95,6 @@ Apesar de o texto parecer muito nervoso ou averso à reuniões, por favor, não 
 **PS2:** Desculpe se você não concorda com os pontos de vista e teve que perder alguns minutos da sua vida lendo tudo isso ;)
 Essa é apenas a minha forma de ver reuniões com notebooks. Faz parte!!!
 
-**PS3:** Se vc considera esse texto muito enviesado e está a procura de algo mais técnico, da uma olhada nos artigos abaixo.
+**PS3:** Se você considera esse texto muito enviesado e está a procura de algo mais técnico, da uma olhada nos artigos abaixo.
 
 **PS4:** Melhor Playstation até o momento em que este artigo foi escrito.
