@@ -6,6 +6,7 @@ author: ravpacheco
 lang: pt
 ref: reuniao-notebook
 image: /assets/images/2019-09-25-reuniao-notebook/meetings.jpg
+headerImage: true
 tag: 
 - reuniao
 - foco
