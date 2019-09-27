@@ -93,9 +93,18 @@ Apesar de o texto parecer muito nervoso ou averso à reuniões, por favor, não 
 
 **PS:** Onde se lê "notebook" neste artigo aplica-se também a palavra "celular". Ele é inconveniente e atrapalha de forma muito parecida. 
 
-**PS2:** Desculpe se você não concorda com os pontos de vista e teve que perder alguns minutos da sua vida lendo tudo isso ;)
-Essa é apenas a minha forma de ver reuniões com notebooks. Faz parte!!!
+**PS2:** Se você considera esse texto muito enviesado e está a procura de algo mais técnico, da uma olhada nos artigos abaixo.
 
-**PS3:** Se você considera esse texto muito enviesado e está a procura de algo mais técnico, da uma olhada nos artigos abaixo.
+* https://edition.cnn.com/2018/10/03/success/meeting-laptops-phones-ban/index.html
+* https://www.inc.com/john-brandon/forget-banning-phones-laptops-at-meetings-heres-what-we-should-ban-instead.html
+* https://lifehacker.com/use-a-paper-notebook-to-look-more-attentive-in-meetings-1729578972
+* https://www.nytimes.com/2017/11/22/business/laptops-not-during-lecture-or-meeting.html
+* https://blog.trello.com/br/como-fazer-reunioes-eficazes-sem-notebooks
+* https://link.estadao.com.br/noticias/cultura-digital,laptops-sao-otimos-mas-nao-durante-aulas-ou-reunioes-de-trabalho,70002110800
+* https://noticias.universia.com.br/destaque/noticia/2011/03/31/421404/evite-no-replicar-os-erros-mais-comuns-nas-reunies-corporativas.html
+* https://sebrae.ms/gestao-de-pessoas/como-fazer-reunioes-mais-produtivas/
+
+**PS3:** Desculpe se você não concorda com os pontos de vista e teve que perder alguns minutos da sua vida lendo tudo isso ;)
+Essa é apenas a minha forma de ver reuniões com notebooks. Faz parte!!!
 
 **PS4:** Melhor Playstation até o momento em que este artigo foi escrito.
