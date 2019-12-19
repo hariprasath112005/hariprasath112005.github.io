@@ -5,7 +5,7 @@ date:   2019-08-12 14:00:00 +0000
 author: ravpacheco
 lang: pt
 ref: brazil-digital-report-2019
-image: /assets/images/2019-08-20-advocate/advocate.jpeg
+image: /assets/images/2019-08-12-brazil-digital-report-2019/brazil-digital-report.png
 headerImage: true
 tag: 
 - profissão
