@@ -1,13 +1,14 @@
 ---
-title: "Resumo das minhas apresentações"
+title: "Palestras e cursos ministrados"
 layout: post
 author: ravpacheco
 lang: pt
 ref: presentations
 img: indigo/indigo.png
 tag: projects
+date: 2019-12-20 14:00:00 +0000
 projects: true
-summary: "Lista das minhas apresentações"
+summary: "Lista de algumas das minhas participações em eventos e cursos ministrados"
 jemoji: ":memo:"
 category: project
 ---
