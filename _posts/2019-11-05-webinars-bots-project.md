@@ -1,5 +1,5 @@
 ---
-title: "BLiP Level Up"
+title: "Webinars about bots"
 layout: post
 author: ravpacheco
 lang: en
@@ -11,115 +11,64 @@ summary: "The list of monthly webinars about conversational applications"
 category: project
 ---
 
-Since 2016 subjects about conversational applications (chabots, ou just bots) got a big importance in tech global scenary. 
+Since 2016 subjects about conversational applications (chabots, ou just bots) got a big importance in tech global scenary.
 
 I have been working with these kind of application since 2013 and have following this big (r)evolution. During the last years i have done many interesting conversations in order to discuss about bots.
 
 This page has a list of some of these conversations.
 
-### [Apple Business Chat - Como atender no novo canal?](https://conversa.take.net/apple-business-chat) 
+## 2019
+-----------------------------
+
+* [Apple Business Chat - Como atender no novo canal?](https://conversa.take.net/apple-business-chat) 
 *Portuguese content*
 
+* [BOTANALYTICS + BLiP - How to improve bot engagement with analytics for conversations](https://conversa.take.net/botanalytics-blip)
 
-### [BOTANALYTICS + BLiP - How to improve bot engagement with analytics for conversations](https://conversa.take.net/botanalytics-blip)
-
-### [Os desafios de estruturar uma equipe de ALTA PERFORMANCE](https://conversa.take.net/webinar-equipe-de-alta-performance)
+* [Os desafios de estruturar uma equipe de ALTA PERFORMANCE](https://conversa.take.net/webinar-equipe-de-alta-performance)
 *Portuguese content*
 
-### [Make ads that really have something to say with AdLingo](http://blip.ai/webinar-adlingo)
-
-### [Boas práticas para bots no WhatsApp](https://conversa.take.net/webinar-boas-praticas-no-whatsapp)
+* [F8 2019 Overview (Day 1)](https://www.facebook.com/talktotake/videos/867300336940390/)
 *Portuguese content*
 
-### [Inteligência Artificial e Chatbots - Aplicações, desafios e boas práticas](https://conversa.take.net/webinar-inteligencia-artificial)
+* [F8 2019 Overview (Day 2)](https://www.facebook.com/talktotake/videos/1227530307403011/)
 *Portuguese content*
 
-### [WhatsApp Business para grandes empresas - O que é, oportunidades e por onde começar?](https://conversa.take.net/webinar-inteligencia-artificial)
+* [Google I/O 2019 Overview](https://www.facebook.com/talktotake/videos/846348719056806/)
 *Portuguese content*
 
-### [O que aprendemos no Google I/O e F8 2018](https://conversa.take.net/webinar-aprendizados-googleio-f8)
+* [Make ads that really have something to say with AdLingo](http://blip.ai/webinar-adlingo)
+
+## 2018
+-----------------------------
+
+* [Best practices for WhatsApp bots](https://conversa.take.net/webinar-boas-praticas-no-whatsapp)
 *Portuguese content*
 
-During 2018 and 2019 I did monthly webinars to discuss any new feature released on BLiP platform. 
+* [Artificial Inteligence and Chatbots - Applications, challenges and best practices](https://conversa.take.net/webinar-inteligencia-artificial)
+*Portuguese content*
 
-This page is a directory with all videos (Content is available only in Portuguese).
+* [WhatsApp Business API - What it's, opportunities and how to start?](https://conversa.take.net/webinar-inteligencia-artificial)
+*Portuguese content*
 
-### [Level Up 19 - Message Templates for WhatsApp](https://www.youtube.com/watch?v=ZR1wowf0Lqw)
+* [F8 2018 Overview (Day 1)](https://www.facebook.com/talktotake/videos/1966402003401094/)
+*Portuguese content*
 
-<iframe src="https://www.youtube.com/embed/ZR1wowf0Lqw" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+* [F8 2018 Overview (Day 2)](https://www.facebook.com/talktotake/videos/1967706946603933/)
+*Portuguese content*
 
-### [Level Up 18 - Mastering BLiP Desk](https://www.facebook.com/talktotake/videos/919978621718842/)
+* [What we learned from Google I/O and F8 2018](https://conversa.take.net/webinar-aprendizados-googleio-f8)
+*Portuguese content*
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalktotake%2Fvideos%2F919978621718842%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+## 2017
+-----------------------------
 
-### [Level Up 17 - Best practices in Builder](https://www.facebook.com/talktotake/videos/423151371739998/)
+* [F8 2017 Overview (Day 1)](https://www.facebook.com/talktotake/videos/1481917191849580/)
+*Portuguese content*
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalktotake%2Fvideos%2F423151371739998%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
+* [F8 2017 Overview (Day 2)](https://www.facebook.com/talktotake/videos/1483005218407444/)
+*Portuguese content*
 
-### [Level Up 16 - News about Builder and BLiP Desk](https://www.facebook.com/talktotake/videos/710426842704699/)
+## 2016
 
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalktotake%2Fvideos%2F710426842704699%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-### [Level Up 15 - Dashbot](https://www.facebook.com/talktotake/videos/366776733984783/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalktotake%2Fvideos%2F366776733984783%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-### [Level Up 14 - Business Metrics](https://www.facebook.com/talktotake/videos/693015614481703/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Ftalktotake%2Fvideos%2F693015614481703%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true" allowFullScreen="true"></iframe>
-
-### [Level Up 13 - BLiP Ideas](https://help.blip.ai/docs/general/level-up/level-up-13-blip-ideas/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F2316893881932419%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 12 - BotAnalytics](https://help.blip.ai/docs/general/level-up/level-up-12-botanalytics/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F607157589748219%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 11 - Last year Overview + Mundiale's Case](https://help.blip.ai/docs/general/level-up/level-up-11-comemoracao-de-um-ano-mais-caso-mundiale/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F342743596338542%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 10 - Debug Tool](https://help.blip.ai/docs/general/level-up/level-up-10-ferramenta-de-debug/)
-
-<iframe src="https://www.youtube.com/embed/WSP8EAUEtjs" width="560" height="451" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 9 - 2018 Retrospective](https://help.blip.ai/docs/general/level-up/level-up-9-marcos-de-2018/)
-
-<iframe src="https://www.youtube.com/embed/jpMFqKN5FIo" width="560" height="445" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 8 - BLiP Growth](https://help.blip.ai/docs/general/level-up/level-up-8-blip-growth/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F1898010483588086%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 7 - Dialogflow](https://help.blip.ai/docs/general/level-up/level-up-7-dialogflow/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F192517565007019%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 6 - Templates, tags and variables library](https://help.blip.ai/docs/general/level-up/level-up-6-templates-tags-e-biblioteca-de-variaveis/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F269522040561762%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 5 - WhatsApp](https://help.blip.ai/docs/general/level-up/level-up-5-whatsapp/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fscpassos%2Fvideos%2F10155569550396587%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 4 - BLiP Desk 2.0](https://help.blip.ai/docs/general/level-up/level-up-4-blip-desk-2/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F1948864555144475%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 3 - AI Checklist](https://help.blip.ai/docs/general/level-up/level-up-3-checklist-de-ia/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F1913991341965130%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 2 - BLiP Chat](https://help.blip.ai/docs/general/level-up/level-up-2-blip-chat/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F1884417131589218%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 1 - BLiP Desk](https://help.blip.ai/docs/general/level-up/level-up-1-blip-desk/)
-
-<iframe src="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fblip.messaging%2Fvideos%2F1853520338012231%2F&show_text=0&width=560" width="560" height="315" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
-
-### [Level Up 0 - Official lauch of BLiP](https://help.blip.ai/docs/general/level-up/level-up-0-lancamento-oficial-do-blip/)
-
-<iframe src="https://www.youtube.com/embed/jp3nGV1ZkTA" width="560" height="470" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowTransparency="true"></iframe>
+* [See other webinars about bots here...](/chatbot-weekly-summary-project/)

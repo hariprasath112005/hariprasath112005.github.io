@@ -18,20 +18,47 @@ Trabalho com este tipo de aplicação desde 2013 e acompanhei de perto toda essa
 
 Esta página possui um diretório de várias dessas conversas.
 
-### [Apple Business Chat - Como atender no novo canal?](https://conversa.take.net/apple-business-chat)
+## 2019
+-----------------------------
 
-### [BOTANALYTICS + BLiP - How to improve bot engagement with analytics for conversations](https://conversa.take.net/botanalytics-blip)
+* [Apple Business Chat - Como atender no novo canal?](https://conversa.take.net/apple-business-chat)
+
+* [BOTANALYTICS + BLiP - Como melhorar o engajamento do seu bot com analytics para conversas](https://conversa.take.net/botanalytics-blip)
 *Conteúdo em Inglês*
 
-### [Os desafios de estruturar uma equipe de ALTA PERFORMANCE](https://conversa.take.net/webinar-equipe-de-alta-performance)
+* [Os desafios de estruturar uma equipe de ALTA PERFORMANCE](https://conversa.take.net/webinar-equipe-de-alta-performance)
 
-### [Make ads that really have something to say with AdLingo](http://blip.ai/webinar-adlingo)
+* [F8 2019 Overview (Dia 1)](https://www.facebook.com/talktotake/videos/867300336940390/)
+
+* [F8 2019 Overview (Dia 2)](https://www.facebook.com/talktotake/videos/1227530307403011/)
+
+* [Google I/O 2019 Overview](https://www.facebook.com/talktotake/videos/846348719056806/)
+
+* [Criando anúncios que têm algo a dizer com o AdLingo](http://blip.ai/webinar-adlingo)
 *Conteúdo em Inglês*
 
-### [Boas práticas para bots no WhatsApp](https://conversa.take.net/webinar-boas-praticas-no-whatsapp)
+## 2018
+-----------------------------
 
-### [Inteligência Artificial e Chatbots - Aplicações, desafios e boas práticas](https://conversa.take.net/webinar-inteligencia-artificial)
+* [Boas práticas para bots no WhatsApp](https://conversa.take.net/webinar-boas-praticas-no-whatsapp)
 
-### [WhatsApp Business para grandes empresas - O que é, oportunidades e por onde começar?](https://conversa.take.net/webinar-inteligencia-artificial)
+* [Inteligência Artificial e Chatbots - Aplicações, desafios e boas práticas](https://conversa.take.net/webinar-inteligencia-artificial)
 
-### [O que aprendemos no Google I/O e F8 2018](https://conversa.take.net/webinar-aprendizados-googleio-f8)
+* [WhatsApp Business para grandes empresas - O que é, oportunidades e por onde começar?](https://conversa.take.net/webinar-inteligencia-artificial)
+
+* [F8 2018 Overview (Dia 1)](https://www.facebook.com/talktotake/videos/1966402003401094/)
+
+* [F8 2018 Overview (Dia 2)](https://www.facebook.com/talktotake/videos/1967706946603933/)
+
+* [O que aprendemos no Google I/O e F8 2018](https://conversa.take.net/webinar-aprendizados-googleio-f8)
+
+## 2017
+-----------------------------
+
+* [F8 2017 Overview (Dia 1)](https://www.facebook.com/talktotake/videos/1481917191849580/)
+
+* [F8 2017 Overview (Dia 2)](https://www.facebook.com/talktotake/videos/1483005218407444/)
+
+## 2016
+
+* [Veja outros webinars sobre bots aqui...](/projeto-resumo-semanal-chatbot)
