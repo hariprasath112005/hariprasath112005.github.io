@@ -20,12 +20,16 @@ A lista abaixo apresenta algumas das minhas apresentações. Para dúvidas sobre
 ## Em breve
 -----------------------------
 
-* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (Porto Alegre - Outubro 2018)
-
-* [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots da teoria a prática) (Recife - Setembro 2018)
+## 2019
+-----------------------------
 
 ## 2018
 -----------------------------
+
+* [BLiP Botcamp](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots da teoria a prática) (Porto Alegre - Outubro 2018)
+
+* [BLiP Botcamp](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots da teoria a prática) (Recife - Setembro 2018)
+
 * [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - Agosto 2018)
 
 * [CloudWeekend](http://www.cloudweekend.com.br/palestra/?titulo=criando-bots-com-blip) - Criando bots com BLiP (Online - Agosto 2018)
@@ -40,10 +44,11 @@ A lista abaixo apresenta algumas das minhas apresentações. Para dúvidas sobre
 
 * [O que aprendemos no Google IO e no F8 - 2018](https://www.youtube.com/watch?v=90N-UZBF388) - Webinar sobre bots da Take  [Belo Horizonte - Maio 2018]
 
+* [Como foi o The Developers Conference - Florianópolis 2018](https://www.facebook.com/talktotake/videos/1974508279257133/?v=1974508279257133) TDC Florianópolis 2018 [Florianópolis - Abril 2018]
+
 * [BLiP por trás das cortinas. Como é arquitetura da maior plataforma de bots do Brasil](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-arquitetura) - TDC Florianópolis 2018 [Florianópolis - Abril 2018]
 
 * [Google Assistant, apps e actions, bem vindo ao mundo dos assistentes de voz](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-computacao-cognitiva) - TDC Florianópolis 2018 [Florianópolis - Abril 2018]
-
 
 * [Gestão de TI e Chatbots - Quais os desafios e como superá-los?](https://www.youtube.com/watch?v=I9VP1bddZqA) - Webinar sobre bots da Take [Belo Horizonte - Abril 2018]
 

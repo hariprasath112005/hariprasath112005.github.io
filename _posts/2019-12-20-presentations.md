@@ -15,17 +15,19 @@ category: project
 
 Some of my presentations. For questions about any subject or invites for events, please send me a message 😉.
 
-<div class="breaker"></div>
-
 ## Coming Soon
+-----------------------------
+
+## 2019
+-----------------------------
+
+## 2018
 -----------------------------
 
 * [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Porto Alegre - October 2018)
 
 * [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Recife - September 2018)
 
-## 2018
------------------------------
 * [Bots4U](http://www.bots4u.com.br/) - Chatbot conference by Take (São Paulo - August 2018)
 
 * [CloudWeekend](http://www.cloudweekend.com.br/palestra/?titulo=criando-bots-com-blip) - Criando bots com BLiP (Online - August 2018)
@@ -40,10 +42,11 @@ Some of my presentations. For questions about any subject or invites for events,
 
 * [O que aprendemos no Google IO e no F8 - 2018](https://www.youtube.com/watch?v=90N-UZBF388) - Take's Webinar about bots [Belo Horizonte - May 2018]
 
+* [Como foi o The Developers Conference - Florianópolis 2018](https://www.facebook.com/talktotake/videos/1974508279257133/?v=1974508279257133) TDC Florianópolis 2018 [Florianópolis - April 2018]
+
 * [BLiP por trás das cortinas. Como é arquitetura da maior plataforma de bots do Brasil](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-arquitetura) - TDC Florianópolis 2018 [Florianópolis - April 2018]
 
 * [Google Assistant, apps e actions, bem vindo ao mundo dos assistentes de voz](http://www.thedevelopersconference.com.br/tdc/2018/florianopolis/trilha-computacao-cognitiva) - TDC Florianópolis 2018 [Florianópolis - April 2018]
-
 
 * [Gestão de TI e Chatbots - Quais os desafios e como superá-los?](https://www.youtube.com/watch?v=I9VP1bddZqA) - Take's Webinar about bots [Belo Horizonte - April 2018]
 
