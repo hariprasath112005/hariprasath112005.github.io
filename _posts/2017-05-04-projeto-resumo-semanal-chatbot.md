@@ -1,5 +1,5 @@
 ---
-title: "Resumo semanal Chatbot"
+title: "Resumo semanal Chatbot 📅"
 layout: post
 author: ravpacheco
 lang: pt
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista das lives sobre os resumos (feitos pelo Caio Calado) semanais de chatbot"
-jemoji: ":memo:"
 category: project
 ---
 

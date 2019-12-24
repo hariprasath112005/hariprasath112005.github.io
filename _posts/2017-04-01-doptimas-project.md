@@ -1,5 +1,5 @@
 ---
-title: "D-OPTIMAS - <b>D</b>istributed <b>OPT</b>imization <b>M</b>ulti <b>A</b>gent <b>S</b>ystem"
+title: "D-OPTIMAS - <b>D</b>istributed <b>OPT</b>imization <b>M</b>ulti <b>A</b>gent <b>S</b>ystem 📝"
 layout: post
 author: ravpacheco
 lang: en
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
-jemoji: ":memo:"
 category: project
 ---
 

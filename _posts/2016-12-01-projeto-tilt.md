@@ -1,5 +1,5 @@
 ---
-title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his"
+title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his ✏️"
 layout: page
 author: ravpacheco
 lang: pt
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista de alguns pequenos e interessantes aprendizados do dia a dia."
-jemoji: ":memo:"
 category: project
 ---
 

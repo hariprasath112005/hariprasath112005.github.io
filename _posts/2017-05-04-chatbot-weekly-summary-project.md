@@ -1,5 +1,5 @@
 ---
-title: "Chatbot weekly summary"
+title: "Chatbot weekly summary 📅"
 layout: post
 author: ravpacheco
 lang: en
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Streams list of Caio's weekly sumary commenting about chatbot"
-jemoji: ":memo:"
 category: project
 ---
 

@@ -1,5 +1,5 @@
 ---
-title: "Presentations summary"
+title: "Presentations summary 🗣️"
 layout: post
 author: ravpacheco
 lang: en
@@ -9,7 +9,6 @@ tag: projects
 date: 2019-12-20 14:00:00 +0000
 projects: true
 summary: "List of my presentations"
-jemoji: ":memo:"
 category: project
 ---
 

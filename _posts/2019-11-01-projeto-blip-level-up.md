@@ -1,5 +1,5 @@
 ---
-title: "BLiP Level Up"
+title: "BLiP Level Up 💙"
 layout: post
 author: ravpacheco
 lang: pt
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista dos webinars mensais da plataforma BLiP"
-jemoji: ":memo:"
 category: project
 ---
 

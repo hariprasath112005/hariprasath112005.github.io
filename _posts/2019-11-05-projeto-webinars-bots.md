@@ -1,5 +1,5 @@
 ---
-title: "Webinars sobre aplicações conversacionais"
+title: "Webinars sobre aplicações conversacionais 📹"
 layout: post
 author: ravpacheco
 lang: pt
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "Lista dos webinars sobre aplicações conversacionais (bots)"
-jemoji: ":memo:"
 category: project
 ---
 

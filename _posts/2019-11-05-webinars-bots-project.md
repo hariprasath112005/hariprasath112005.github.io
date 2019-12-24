@@ -1,5 +1,5 @@
 ---
-title: "Webinars about bots"
+title: "Webinars about bots 📹"
 layout: post
 author: ravpacheco
 lang: en

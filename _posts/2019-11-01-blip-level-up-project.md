@@ -1,5 +1,5 @@
 ---
-title: "BLiP Level Up"
+title: "BLiP Level Up 💙"
 layout: post
 author: ravpacheco
 lang: en

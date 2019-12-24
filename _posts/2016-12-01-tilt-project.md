@@ -1,5 +1,5 @@
 ---
-title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his"
+title: "tilt - <b>T</b>oday <b>I</b> <b>l</b>earned <b>T</b>his ✏️"
 layout: post
 author: ravpacheco
 lang: en
@@ -8,7 +8,6 @@ img: indigo/indigo.png
 tag: projects
 projects: true
 summary: "List of some small good things that I have learned some day"
-jemoji: ":memo:"
 category: project
 ---
 
