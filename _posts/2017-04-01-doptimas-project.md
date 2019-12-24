@@ -1,5 +1,5 @@
 ---
-title: "D-OPTIMAS - <b>D</b>istributed <b>OPT</b>imization <b>M</b>ulti <b>A</b>gent <b>S</b>ystem 📝"
+title: "D-OPTIMAS 📝"
 layout: post
 author: ravpacheco
 lang: en
@@ -10,6 +10,8 @@ projects: true
 summary: "Overview about D-OPTIMAS <i>Distributed multi agent system</i>, a software to solve optimization problems of different classes, developed during my master degree."
 category: project
 ---
+
+> D-OPTIMAS - Distributed OPTimization Multi Agent System
 
 In optimization, many important problems are NP-hard which are very hard to solve via mathematical programming due to their computational nature. 
 

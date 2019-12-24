@@ -1,5 +1,5 @@
 ---
-title: "Webinars sobre aplicações conversacionais 📹"
+title: "Webinars sobre bots 📹"
 layout: post
 author: ravpacheco
 lang: pt
