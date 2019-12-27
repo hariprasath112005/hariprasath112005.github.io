@@ -1,5 +1,5 @@
 ---
-title: "Palestras e cursos ministrados 🗣️"
+title: "Palestras e Workshops 🗣️"
 layout: post
 author: ravpacheco
 lang: pt
@@ -8,7 +8,7 @@ img: indigo/indigo.png
 tag: projects
 date: 2019-12-20 14:00:00 +0000
 projects: true
-summary: "Lista de algumas das minhas participações em eventos e cursos ministrados"
+summary: "Lista de algumas das minhas participações em eventos e workshops"
 category: project
 ---
 

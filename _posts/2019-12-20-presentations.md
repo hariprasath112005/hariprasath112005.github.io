@@ -1,5 +1,5 @@
 ---
-title: "Presentations summary 🗣️"
+title: "Talks and Workshops 🗣️"
 layout: post
 author: ravpacheco
 lang: en
@@ -13,6 +13,8 @@ category: project
 ---
 
 Some of my presentations. For questions about any subject or invites for events, please send me a message 😉.
+
+<div class="breaker"></div>
 
 ## Coming Soon
 -----------------------------
