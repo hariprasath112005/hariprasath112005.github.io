@@ -20,8 +20,38 @@ Some of my presentations. For questions about any subject or invites for events,
 ## 2019
 -----------------------------
 
+* [BLiP Botcamp](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots from theory to practice) (São Paulo - November 2019)
+
+* [BLiP Botcamp](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots from theory to practice) (Brasília - October 2019)
+
+* [BLiP Botcamp - Edição 4Devs](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots from theory to practice) for developers (São Paulo - August 2019)
+
+* [Workshop - Criando bots com a plataforma BLiP](https://www.unicamp.br/unicamp/) - Workshop exclusivo para alunos e funcionários da Unicamp (Campinas - August 2019)
+
+* [Whatsapp.zip]() - Tudo que você precisa saber para criar um bot usando a API oficial do Whatsapp. Palestra ministrada para a trilha Chatbots do TDC São Paulo (São Paulo - July 2019)
+
+* [Workshop - Criando bots com a plataforma BLiP](http://sites.pr.sebrae.com.br/inteligenciaartificial/) - Seminário de IA Sebrae Paraná. (Curitiba - July 2019)
+
+* [Coordenador da trilha de Chatbots TDC 2019 BH]() - Coordenação da trilha de chatbots do TDC 2019 Edição Belo Horizonte (Belo Horizonte - June 2019)
+
+* [BLiP por trás das cortinas. Insights sobre a arquitetura de uma plataforma de bots]() - Palestra ministrada na trilha Arquitetura do TDC 2019 Edição Belo Horizonte (Belo Horizonte - June 2019)
+
+* [Mestre de cerimônia do evento Bots4U](https://take.net/blog/take-notes/cobertura-bots4u-2019/) - O maior evento sobre chatbots e contatos inteligentes da América Latina. (São Paulo - June 2019)
+
+* [O analytics no futuro do relacionamento com o cliente final]() - Palestra realizada em um Workshop de parceiros Microsoft na sede da empresa em São Paulo. (São Paulo - May 2019)
+
+* [Como inovar através de uma conversa?]() - Palestra aprovada para a trilha de inovação do TDC 2019 (TDC Florianópolis) (Florianópolis - April 2019)
+
+* [Whatsapp.zip]() - Tudo que você precisa saber para criar um bot usando a API oficial do Whatsapp (TDC Florianópolis) (Florianópolis - April 2019)
+
+* [BLiP Botcamp](https://www.youtube.com/watch?v=I_lGbD6FNls&list=PLImSu1pT2AFKd0wN-p-XqrsBzATEzHlJm) - BLiP Botcamp (Chatbots from theory to practice) (São Paulo - January 2019)
+
 ## 2018
 -----------------------------
+
+* [Roadshow - Tudo que você precisa saber sobre Whatsapp Business](https://cubo.network/) - Talk about WhatsApp new Business products (São Paulo - November 2018)
+
+* [Talk: App or Chat?](https://www.cotemig.com.br/) - Talk for students of Faculdade Cotemig about apps and chatbots. (Belo Horizonte - November 2018)
 
 * [BLiP Botcamp](http://botcamp.blip.ai/) - BLiP Botcamp (Chatbots from theory to practice) (Porto Alegre - October 2018)
 
