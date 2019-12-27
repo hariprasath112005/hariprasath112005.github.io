@@ -11,8 +11,8 @@ summary: "Newsletter about BLiP platform"
 category: project
 ---
 
-BLiP Weekly is a newsletter about BLiP platform and bot’s world. It helps you keep up with the new features, contents, ideas, tips, and discussions about the platform (https://blip.ai/en/).
+BLiP Weekly is a newsletter about [BLiP platform](https://blip.ai/en/) and bot’s world. It helps you keep up with the new features, contents, ideas, tips, and discussions about the platform.
 
-![Banner image of BLiP Weekly](../assets/images/2019-06-01-projeto-blip-weekly/blip-weekly.png)
+![Banner image of BLiP Weekly](../assets/images/2019-06-01-projeto-blip-weekly/blip-weekly.png){: class="bigger-image"}
 
 [Click here](https://www.getrevue.co/profile/blip) to see BLiP Weekly project home
