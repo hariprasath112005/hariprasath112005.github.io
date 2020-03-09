@@ -1,4 +1,4 @@
-<!-- ---
+---
 title: "Obrigado Take"
 layout: post
 date:   2020-03-13 14:00:00 +0000
@@ -17,7 +17,7 @@ star: true
 description: Chegou a hora de iniciar um novo ciclo. Mas não é possível fazer isso sem relembrar e agradecer por tudo aquilo conquistado no passado.
 externalLink: true
 category: blog
---- -->
+---
 
 > Essas são algumas notas desconexas e aleatórias para tentar descrever todo o meu agradecimento à empresa que me tornou um profissional.
 
