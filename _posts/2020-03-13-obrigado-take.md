@@ -48,8 +48,8 @@ Cada um percebe o mundo à sua volta de uma forma diferente, e isso é incrível
 
 ...espero que o mesmo acaso que me fez conhecer uma empresa tão próxima da perfeição me ajude a resolver outros problemas, a transformar o mundo em algo melhor, e a continuar evoluindo como profissional e como pessoa. **Obrigado Take* 👋.**
 
-Rafael Avelar **Pacheco**
-BLiP Advocate
-#goTake #goBLiP ❤️
+Rafael Avelar **Pacheco**  
+BLiP Advocate  
+#goTake #goBLiP ❤️  
 
 [Clique aqui](https://www.facebook.com/ravpacheco/media_set?set=a.2837660009647787&type=3) para ver algumas fotos dessa jornada de 7 anos. 🤳
