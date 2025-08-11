@@ -1,19 +1,19 @@
 ---
-title: "🍔 Django Recipe Website"
+title: "🍔 [Django Recipe Website](https://django-recipe-25wj.onrender.com/)"
 layout: post
 author: hariprasath
 lang: en
 ref: Django-Recipe-Website
 tag: projects
-date: 2024-09-11 14:00:00 +0000
+date: 2025-07-11 14:00:00 +0000
 projects: true
 summary: "A Website that gives you Recipes and Specific Meals for Bulking and Cutting."
 category: project
 ---
 
-🔗 **Project Link:** [Click Here](https://django-recipe-25wj.onrender.com/)  
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-brightgreen?style=for-the-badge&logo=raspberrypi)](https://django-recipe-25wj.onrender.com/)
 
-# 🍽️ Django Recipe Website
+# 🍽️ [Django Recipe Website] (https://django-recipe-25wj.onrender.com/)
 
 A full-featured recipe management web application built using Django. This platform allows users to explore a wide variety of recipes with step-by-step cooking instructions and ingredient details. Designed with user authentication, it ensures secure access and includes a specialized section for fitness-focused diets like **bulking** and **cutting**.
 
