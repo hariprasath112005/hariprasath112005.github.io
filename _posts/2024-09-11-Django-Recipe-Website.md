@@ -11,6 +11,8 @@ summary: "A Website that gives you Recipes and Specific Meals for Bulking and Cu
 category: project
 ---
 
+🔗 **Project Link:** [Click Here](https://django-recipe-25wj.onrender.com/)  
+
 # 🍽️ Django Recipe Website
 
 A full-featured recipe management web application built using Django. This platform allows users to explore a wide variety of recipes with step-by-step cooking instructions and ingredient details. Designed with user authentication, it ensures secure access and includes a specialized section for fitness-focused diets like **bulking** and **cutting**.
