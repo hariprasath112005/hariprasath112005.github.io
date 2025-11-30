@@ -26,15 +26,21 @@
         {% endif %} {% endif %} 
         {% if site.about == true %} {% if page.ref != "about" %}
         <li class="item">
-           
+
             {% if page.lang == "en" %}
             <a class="link" href="{{ site.url }}/about">About</a>
             {% endif %}
         </li>
         {% endif %} {% endif %}
+        <li class="item">
+
+            {% if page.lang == "en" %}
+            <a class="link" target="_blank" href="https://hariprasath112005.github.io/hariblog/">Blogs</a>
+            {% endif %}
+        </li>
         {% if site.resume == true %}
             <li class="item">
-              
+
                 {% if page.lang == "en" %}
                 <a class="link" target="_blank" href="{% if site.resume-external %}{{ site.resume-url }}{% else %}{{ site.url }}/{{ site.resume-url }}{% endif %}">Resume</a>
                 {% endif %}
@@ -44,4 +50,3 @@
 </nav>
 
 <!--Add dinamic language get-->
-
